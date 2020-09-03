@@ -1,0 +1,13 @@
+C:\repos\StrechtSkills\StrechtSkills\bin\Debug\netcoreapp3.1\StrechtSkills.exe
+C:\repos\StrechtSkills\StrechtSkills\bin\Debug\netcoreapp3.1\StrechtSkills.deps.json
+C:\repos\StrechtSkills\StrechtSkills\bin\Debug\netcoreapp3.1\StrechtSkills.runtimeconfig.json
+C:\repos\StrechtSkills\StrechtSkills\bin\Debug\netcoreapp3.1\StrechtSkills.runtimeconfig.dev.json
+C:\repos\StrechtSkills\StrechtSkills\bin\Debug\netcoreapp3.1\StrechtSkills.dll
+C:\repos\StrechtSkills\StrechtSkills\bin\Debug\netcoreapp3.1\StrechtSkills.pdb
+C:\repos\StrechtSkills\StrechtSkills\obj\Debug\netcoreapp3.1\StrechtSkills.csprojAssemblyReference.cache
+C:\repos\StrechtSkills\StrechtSkills\obj\Debug\netcoreapp3.1\StrechtSkills.AssemblyInfoInputs.cache
+C:\repos\StrechtSkills\StrechtSkills\obj\Debug\netcoreapp3.1\StrechtSkills.AssemblyInfo.cs
+C:\repos\StrechtSkills\StrechtSkills\obj\Debug\netcoreapp3.1\StrechtSkills.csproj.CoreCompileInputs.cache
+C:\repos\StrechtSkills\StrechtSkills\obj\Debug\netcoreapp3.1\StrechtSkills.dll
+C:\repos\StrechtSkills\StrechtSkills\obj\Debug\netcoreapp3.1\StrechtSkills.pdb
+C:\repos\StrechtSkills\StrechtSkills\obj\Debug\netcoreapp3.1\StrechtSkills.genruntimeconfig.cache
